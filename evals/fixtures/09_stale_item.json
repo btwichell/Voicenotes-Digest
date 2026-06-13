@@ -1,0 +1,10 @@
+{
+  "description": "One item sitting for weeks, one low-priority recent note",
+  "notes": "Note 1 (2025-05-20): Need to get the car oil change. Way overdue.\n\nNote 2 (2025-06-08): Remember to take vitamins in the morning.",
+  "criteria": [
+    "Oil change is flagged as having been sitting too long",
+    "Oil change receives more emphasis than the vitamin reminder",
+    "Output is two paragraphs or fewer with no bullet points",
+    "Output does not exceed 120 words"
+  ]
+}

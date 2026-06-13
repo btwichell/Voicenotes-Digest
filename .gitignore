@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+*.save
+
+# Virtual environments
+.venv
+venv
+
+# Secrets and tokens
+.env
+.env.*
+*.token
+*.tokens
+tokens.json
+.mcp-tokens/
+
+# Runtime
+logs/
+
+# IDE / tooling
+.claude/
+applied_ai_bootcamp_tracker.html
+!.env.example

@@ -1,0 +1,10 @@
+{
+  "description": "Everything is explicitly done -- no open items to surface",
+  "notes": "Note 1 (2025-06-08): Finished the deck for Thursday meeting. Done.\n\nNote 2 (2025-06-07): Returned the package to Amazon. Resolved.\n\nNote 3 (2025-06-06): Had the tough conversation with the contractor. All sorted out now.",
+  "criteria": [
+    "Output leads with wins or acknowledgment that things are in good shape",
+    "Output does not manufacture open items that are not in the notes",
+    "Output is brief and does not pad with filler",
+    "Output does not exceed 120 words"
+  ]
+}

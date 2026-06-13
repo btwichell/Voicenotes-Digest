@@ -1,0 +1,11 @@
+{
+  "description": "One completed item, one open -- win should come first",
+  "notes": "Note 1 (2025-06-08): Paid the contractor invoice this morning. That is done.\n\nNote 2 (2025-06-07): Still need to schedule the dentist appointment. Have been putting it off.",
+  "criteria": [
+    "Contractor payment is mentioned as a win",
+    "Dentist appointment is surfaced as an open item",
+    "Win is mentioned before the open item",
+    "Output is two paragraphs or fewer with no bullet points",
+    "Output does not exceed 120 words"
+  ]
+}

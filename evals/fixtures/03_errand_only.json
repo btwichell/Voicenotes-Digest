@@ -1,0 +1,10 @@
+{
+  "description": "Only errand notes, no action items -- should not manufacture urgency",
+  "notes": "Note 1 (2025-06-07): Pick up dry cleaning.\n\nNote 2 (2025-06-06): Need to get groceries this week, running low on basics.",
+  "criteria": [
+    "No specific errand items or locations are named",
+    "Output flags it as a good day to make a run without listing what to get",
+    "Output does not manufacture urgency or treat errands as high priority",
+    "Output does not exceed 120 words"
+  ]
+}

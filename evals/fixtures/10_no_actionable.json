@@ -1,0 +1,9 @@
+{
+  "description": "Notes with no actionable content -- random thoughts only",
+  "notes": "Note 1 (2025-06-07): What if we painted the bedroom a darker color? Could be interesting.\n\nNote 2 (2025-06-06): Heard a good song on the radio, want to remember the vibe of it.",
+  "criteria": [
+    "Output does not manufacture action items from non-actionable notes",
+    "Output communicates that there is nothing pressing today",
+    "Output does not exceed 120 words"
+  ]
+}

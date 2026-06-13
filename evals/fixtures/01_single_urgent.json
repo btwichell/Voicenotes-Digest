@@ -1,0 +1,11 @@
+{
+  "description": "One urgent open item (contract follow-up) plus one low-priority errand",
+  "notes": "Note 1 (2025-06-08): Need to follow up with Jake about the services contract. We sent it over last Tuesday and haven't heard back. This needs to close by end of week, it's holding up the project start. Need to reach out today.\n\nNote 2 (2025-06-07): Pick up dry cleaning from the place on Valencia.",
+  "criteria": [
+    "The Jake contract follow-up is surfaced as the top priority",
+    "Output is two paragraphs or fewer with no bullet points",
+    "Output mentions errands generically without naming dry cleaning, street names, or specific locations",
+    "Tone is warm and direct, not clinical",
+    "Output does not exceed 120 words"
+  ]
+}

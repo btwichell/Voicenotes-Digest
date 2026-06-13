@@ -1,0 +1,10 @@
+{
+  "description": "Five notes of varying urgency -- should prioritize, not list everything",
+  "notes": "Note 1 (2025-06-08): Call the insurance company back about the claim. They need supporting docs by Friday.\n\nNote 2 (2025-06-07): Renew parking permit before it expires next week.\n\nNote 3 (2025-06-06): Would be nice to reorganize the closet at some point.\n\nNote 4 (2025-06-05): Look into flights for the August trip. Not urgent but want to book ahead.\n\nNote 5 (2025-06-04): Pick up a birthday card for mom. Her birthday is the 15th.",
+  "criteria": [
+    "Insurance claim is surfaced as the top priority",
+    "Output does not list all five items",
+    "Output is two paragraphs or fewer with no bullet points",
+    "Output does not exceed 120 words"
+  ]
+}

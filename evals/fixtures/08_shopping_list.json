@@ -1,0 +1,9 @@
+{
+  "description": "A single grocery list note -- no action items, just a shopping list",
+  "notes": "Note 1 (2025-06-08): Grocery list: eggs, oat milk, coffee, sourdough bread, olive oil, dish soap, paper towels.",
+  "criteria": [
+    "No grocery items are named in the output",
+    "Output flags it as a good day to make a run",
+    "Output does not exceed 120 words"
+  ]
+}

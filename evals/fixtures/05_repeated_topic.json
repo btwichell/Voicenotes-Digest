@@ -1,0 +1,10 @@
+{
+  "description": "Same person mentioned across two notes on different days -- should trigger a nudge",
+  "notes": "Note 1 (2025-06-05): Should reach out to Marcus about the collab idea. He seemed interested when we talked.\n\nNote 2 (2025-06-08): Still haven't messaged Marcus. Need to just do it.",
+  "criteria": [
+    "Output nudges on the repeat -- notes it has come up more than once",
+    "Marcus outreach is surfaced as an open item",
+    "Output is two paragraphs or fewer with no bullet points",
+    "Output does not exceed 120 words"
+  ]
+}

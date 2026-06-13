@@ -1,0 +1,10 @@
+{
+  "description": "Two items both urgent today, competing for top priority",
+  "notes": "Note 1 (2025-06-08): Need to call the landlord today about the bathroom leak. The super is waiting on my call to schedule the repair.\n\nNote 2 (2025-06-08): Q2 expense report is due end of day today. Finance already sent one reminder.",
+  "criteria": [
+    "Both items are surfaced as today priorities",
+    "Output is two paragraphs or fewer with no bullet points",
+    "Tone is warm and direct, not clinical",
+    "Output does not exceed 120 words"
+  ]
+}
